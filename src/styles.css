@@ -1,0 +1,116 @@
+html {
+  text-align: center;
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/626/042/non_2x/vector-circuit-board-vertical-high-tech-technology-banner-background-texture.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+.image_right{
+  display: block;
+  margin-right: auto;
+  float: left;
+  margin-right: 60px;
+  margin-bottom: 6px;
+}
+.image_left{
+    display: block;
+    margin-left: auto;
+    float: right;
+    margin-left: 60px;
+    margin-bottom: 6px;
+}
+
+.left{
+  float: left;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: rgb(0, 0, 0);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 25px 20px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+.navbar #logo {
+  float: right;
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Main content */
+.main {
+  margin-top: 40px;
+}
+h1 {
+  font-family: impact;
+  color: rgb(0, 248, 248);
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+h2{
+  font-family: Impact;
+  color: transparent;
+  text-align: left;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: rgb(0, 248, 248);
+}
+h2 .right{
+  font-family: Impact;
+  color: transparent;
+  text-align: right;
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: rgb(0, 248, 248);
+}
+p1 {
+  font-family: serif-sans;
+  color: white;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.Navigation {
+  font-family: serif-sans;
+  text-decoration: none;
+  text-align: center;
+}
+#Logo {
+  text-align: center;
+}
+#info {
+  text-align: center;
+}
+.Header {
+  text-align: left;
+}
+
+#homepage {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/626/042/non_2x/vector-circuit-board-vertical-high-tech-technology-banner-background-texture.jpg);
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#NCD {
+}
+

@@ -1,2 +1,0 @@
-# ScottyAndTheJacobs
-Created with CodeSandbox
